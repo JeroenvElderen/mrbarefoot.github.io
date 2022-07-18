@@ -2507,7 +2507,7 @@ blockquote:after {
 	margin-left: -30px;
 	-moz-transform: scale(0);
 	-webkit-transform: scale(0);
-	-o-transform: scale(0);
+	-o-transform: scale(0)
 }
 .if-overlay .image_frame .image_wrapper .image_links.double {
 	width: 120px;
